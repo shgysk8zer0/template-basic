@@ -21,12 +21,12 @@
     Content-Security-Policy = '''
       default-src 'self';
       base-uri 'self';
-      img-src 'self' https://secure.gravatar.com/avatar/ https://i.imgur.com/;
-      script-src 'self' https://cdn.kernvalley.us;
-      style-src 'self' https://cdn.kernvalley.us;
-      connect-src 'self' https://api.kernvalley.us;
+      img-src 'self' https://secure.gravatar.com/avatar/ https://i.imgur.com/ https://cdn.kernvalley.us/;
+      script-src 'self' https://cdn.kernvalley.us/;
+      style-src 'self' https://cdn.kernvalley.us/;
+      connect-src 'self' https://api.kernvalley.us/ https://cdn.kernvalley.us/;
       worker-src: 'self';
-      font-src 'self' https://cdn.kernvalley.us;
+      font-src 'self' https://cdn.kernvalley.us/;
       media-src 'none';
       child-src 'self';
       object-src: 'none';
