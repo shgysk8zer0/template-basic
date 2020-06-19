@@ -1,7 +1,7 @@
 # template-basic
 A fairly bare-bones template repository
 
-[![Build Status](https://travis-ci.org/shgysk8zer0/template-basic.svg?branch=master)](https://travis-ci.org/shgysk8zer0/template-basic)
+
 [![GitHub license](https://img.shields.io/github/license/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/blob/master/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shgysk8zer0/template-basic.svg)
 ![GitHub release](https://img.shields.io/github/release/shgysk8zer0/template-basic.svg)
@@ -17,4 +17,4 @@ A fairly bare-bones template repository
 
 - [Code of Conduct](./.github/CODE_OF_CONDUCT.md)
 - [Contributing](./.github/CONTRIBUTING.md)
-- [Security Policy](./.github/SECURITY.md)
+<!-- - [Security Policy](./.github/SECURITY.md) -->
