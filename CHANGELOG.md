@@ -5,8 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-
-## [v1.0.0] 2020-06-19
+<!-- markdownlint-disable -->
+## [v1.0.1] 2020-06-19
 
 ### Added
 - Include Changelog
@@ -18,3 +18,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - All front-end related code (`/css/`, `/js/`, `/img/`) and config files
+
+## [v1.0.0] 2019-06-11
+
+### Added
+- Basic HTML, JS, CSS, & SVG icons
+- No submodules
+- Varoious config files
+- Issue & Pull Request Templates
+- Contributing Guidelines & Code of Conduct
+<!-- markdownlint-restore -->
