@@ -1,13 +1,13 @@
 # template-basic
 A fairly bare-bones template repository
 
-[![Super Linter](https://github.com/shgysk8zer0/jekyll-template/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/shgysk8zer0/jekyll-template/actions?query=workflow%3A%22Lint+Code+Base%22)
+[![Super Linter](https://github.com/shgysk8zer0/template-basic/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/shgysk8zer0/template-basic/actions?query=workflow%3A%22Lint+Code+Base%22)
 
-[![GitHub license](https://img.shields.io/github/license/shgysk8zer0/jekyll-template.svg)](https://github.com/shgysk8zer0/jekyll-template/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/shgysk8zer0/jekyll-template.svg)](https://github.com/shgysk8zer0/jekyll-template/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/shgysk8zer0/jekyll-template.svg)](https://github.com/shgysk8zer0/jekyll-template/pulls)
-[![GitHub last commit](https://img.shields.io/github/last-commit/shgysk8zer0/jekyll-template.svg)](https://github.com/shgysk8zer0/jekyll-template/commits/master)
-[![GitHub release](https://img.shields.io/github/release/shgysk8zer0/jekyll-template.svg)](https://github.com/shgysk8zer0/jekyll-template/releases)
+[![GitHub license](https://img.shields.io/github/license/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/commits/master)
+[![GitHub release](https://img.shields.io/github/release/shgysk8zer0/template-basic.svg)](https://github.com/shgysk8zer0/template-basic/releases)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/shgysk8zer0.svg)
 ![Keybase BTC](https://img.shields.io/keybase/btc/shgysk8zer0.svg)
