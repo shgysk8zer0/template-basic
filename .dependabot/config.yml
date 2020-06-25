@@ -1,0 +1,15 @@
+version: 1
+# See documentation: https://dependabot.com/docs/config-file/
+update_configs:
+  # Keep submodules up to date, batching pull requests weekly
+  - package_manager: "submodules"
+    directory: "/"
+    update_schedule: "weekly"
+    # Apply default reviewer and label to created
+    # pull requests
+    default_reviewers:
+      - "shgysk8zer0"
+    default_assignees:
+      - "shgysk8zer0"
+    default_labels:
+      - "dependencies"
