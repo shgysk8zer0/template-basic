@@ -42,20 +42,20 @@ jobs:
       # Checkout the code base #
       ##########################
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.1
 
       ################################
       # Run Linter against code base #
       ################################
       - name: Lint Code Base
-        uses: github/super-linter@v2.2.0
+        uses: docker://github/super-linter:v3
         env:
           # @TODO Add HTML when/if available
           VALIDATE_ALL_CODEBASE: true
           DEFAULT_BRANCH: master
           VALIDATE_YAML: true
           VALIDATE_JSON: true
-          VALIDATE_XML: true
+          VALIDATE_XML: false
           VALIDATE_MD: true
           VALIDATE_BASH: true
           VALIDATE_PERL: false
@@ -64,7 +64,7 @@ jobs:
           VALIDATE_RUBY: false
           VALIDATE_COFFEE: false
           VALIDATE_ANSIBLE: false
-          VALIDATE_JAVASCRIPT_ES: true
+          VALIDATE_JAVASCRIPT_ES: false
           VALIDATE_JAVASCRIPT_STANDARD: false
           VALIDATE_TYPESCRIPT_ES: false
           VALIDATE_TYPESCRIPT_STANDARD: false
